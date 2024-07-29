@@ -5,4 +5,3 @@ function countClicks(){
     document.getElementById('clickCount').innerText = 'You have clicked ' + clickCount + 'times';
 
 }
-
